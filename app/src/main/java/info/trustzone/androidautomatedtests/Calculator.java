@@ -6,10 +6,10 @@ package info.trustzone.androidautomatedtests;
  */
 
 class Calculator {
-    public int multiply(int aValue, int bValue) {
+    int multiply(int aValue, int bValue) {
         return 0;
     }
-    public int divide(int aValue, int bValue) {
+    int divide(int aValue, int bValue) {
         return 0;
     }
 }
